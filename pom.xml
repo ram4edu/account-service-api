@@ -123,6 +123,18 @@
 						</goals>
 					</execution>
 				</executions>
+				<configuration>
+					<resources>
+						<labels>
+							<all>
+								<property>
+									<name>name</name>
+									<value>ram-account</value>
+								</property>
+							</all>
+						</labels>
+					</resources>
+				</configuration>
 			</plugin>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
