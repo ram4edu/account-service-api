@@ -129,7 +129,7 @@
 							<all>
 								<property>
 									<name>name</name>
-									<value>ram-account</value>
+									<value>account-service-name-api</value>
 								</property>
 							</all>
 						</labels>
